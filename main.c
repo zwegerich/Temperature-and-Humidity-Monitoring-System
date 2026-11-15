@@ -12,6 +12,8 @@
 #include "seg7.h"
 #include "sensor.h"
 
+// TESTING
+
 
 // Data struct for storing the temperature and humidity
 typedef struct {
